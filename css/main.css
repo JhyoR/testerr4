@@ -1,0 +1,22 @@
+@import url('/css/fb-login.css');
+
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 0.75em/1.38 Helvetica;
+  color: rgb(255, 255, 255);
+}
+
+.fb-reg-modal {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	left: 0%;
+	-webkit-transition: all 100ms ease;
+-moz-transition: all 100ms ease;
+-ms-transition: all 100ms ease;
+-o-transition: all 100ms ease;
+transition: all 100ms ease;
+}
+
+
+
